@@ -1,6 +1,6 @@
-# :computer: TeamFleming HackBio 2021 Internship
+# :computer: Welcome to Team Fleming! 
 
-**#TeamFleming** is a multicultural group of 20 young bioinformatics enthusiasts participating in the 2021 HackBio Summer Internship. The HackBio 2020 Internship is a 5-week, fast-paced opportunity for budding scientists to gain advanced bioinformatics and computational biology skills while collaborating on real-world projects. 
+**#TeamFleming** is a multicultural group of 20 young bioinformatics enthusiasts participating in the 2021 HackBio Summer Internship. The HackBio 2021 Internship is a 5-week, fast-paced opportunity for budding scientists to gain advanced bioinformatics and computational biology skills while collaborating on real-world projects. 
 
 Following the footsteps of renowned scientist, **Alexander Fleming**, #TeamFleming is taking their first steps to making impact at the intersection of biology & tech.
 
