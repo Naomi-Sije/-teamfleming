@@ -31,7 +31,8 @@ Our first task as Stage Zero Interns in the HackBio internship was tagged, **The
 
 Here's a pictorial representation of what we had to do
 
-![Copy of 5 Fun Facts Chalk Board Meet the Teacher Introduction Graphic](https://user-images.githubusercontent.com/88307038/128521903-be5b3aa5-6f00-4383-af14-5093b3372f51.png)
+![Copy of 5 Fun Facts Chalk Board Meet the Teacher Introduction Graphic (1)](https://user-images.githubusercontent.com/88307038/128563508-0ba1b4fe-82c9-4f0a-827b-a07ba0443c59.png)
+
 
 
 
