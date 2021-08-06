@@ -20,8 +20,7 @@ function hammer(){
     };
     return hamming;
 }
+hammingDistance = hammer();
 
-for (values in details){
-    console.log(details[values]);
-}
-console.log(hammer());
+
+console.log(details.name, details.email, details.slackUsername, details.biostack, details.twitterHandle, hammingDistance)
