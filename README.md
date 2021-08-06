@@ -5,25 +5,25 @@
 Following the footsteps of renowned scientist and drug developer, **Alexander Fleming**, #TeamFleming is taking their first steps to learning digital skills required to make impact at the intersection of biology & tech.
 
 # :couple: Team Members
-1. Sara Elbesomy 
-2. Naomi Ndifon 
-3. Adole Jolly 
-4. Stephanie Ezirim 
-5. Aginah Chukwuemelie 
-6. Sopuluchukwu Ugwu 
-7. Maxwell Booker 
-8. Samar Ghoneim
-9. Felicity Chidinma 
-10.  Ridwan Osho 
-11. Kerishnee Naicker 
-12. Mercy Kibathi 
-13. Godspower Isaac 
+1. Sara Elbesomy  : **MATLAB**
+2. Naomi Ndifon   : **Ruby**
+3. Adole Jolly    : **R**
+4. Stephanie Ezirim : **Python**
+5. Aginah Chukwuemelie : **Python**
+6. Sopuluchukwu Ugwu   : **R**
+7. Maxwell Booker      : **Perl**
+8. Samar Ghoneim       : **C++**
+9. Felicity Chidinma   : **Python**
+10.  Ridwan Osho       : **Java Script**
+11. Kerishnee Naicker  : **Python**
+12. Mercy Kibathi      : **Java**
+13. Godspower Isaac    : **Python**
 14. Kelvin Aganbi 
 15. Olanipekun Tobi 
-16. Dawoud Usman  
+16. Dawoud Usman       : **Python**
 17. Damilola 
 18. Yusuf 
-19. Samuel Borode 
+19. Samuel Borode      : **Python**
 20. Emmanuel Adamolekun 
 
 # Our Task
