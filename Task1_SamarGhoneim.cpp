@@ -20,6 +20,10 @@ int hamming(string username, string twitter)
                 continue;
             }
         }
+        else
+        {
+            cnt=-1;
+        }
     }
     return cnt;
 }
