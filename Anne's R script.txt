@@ -1,4 +1,5 @@
 
+Type 'q()' to quit R.
 
 
 
