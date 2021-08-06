@@ -19,11 +19,11 @@ Type 'q()' to quit R.
 
 [Previously saved workspace restored]
 
-> name <- "sopuluchukwu ugwu"
-> email <- "sopuluchianne@gmail.com"
-> username <- "@Anne"
-> biostack <- "Data analysis"
-> twiter <- "sopuluchi anne" 
+> name <- "sopuluchukwu ugwu,"
+> email <- "sopuluchianne@gmail.com,"
+> username <- "@Anne,"
+> biostack <- "Data analysis,"
+> twiter <- "sopuluchi anne," 
 > print(c(name, email, username, biostack, twitter, sum(username!=twitter)))
 [1] "sopuluchukwu ugwu"       "sopuluchianne@gmail.com"
 [3] "@Anne"                   "Data analysis"          
