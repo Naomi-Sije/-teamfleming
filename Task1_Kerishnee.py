@@ -1,7 +1,7 @@
 name = 'kerishnee naicker,'
 email = 'kerrynaicker@gmail.com,'
 slackusername = '@kerishnee,'
-biostacker = 'drug development,'
+biostack = 'drug development,'
 Twitterhandle = '@kerishnee,'
 
 def hamming_distance(slackusername,twitterhandle):
@@ -11,4 +11,4 @@ def hamming_distance(slackusername,twitterhandle):
 	       count += 1
 	    return count
 				
-print (name,email,slackusername,biostacker,Twitterhandle,(hamming_distance(slackusername, Twitterhandle)))
+print (name,email,slackusername,biostack,Twitterhandle,(hamming_distance(slackusername, Twitterhandle)))
