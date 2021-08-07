@@ -1,9 +1,9 @@
 const details = {
-    name: "Osho Ridwan",
-    email: "oshoridwan@gmail.com",
-    slackUsername: "@Osho",
-    biostack: "Public Health and Genomic Epidemiology",
-    twitterHandle: "@readone98"
+    name: "Osho Ridwan,",
+    email: "oshoridwan@gmail.com,",
+    slackUsername: "@Osho,",
+    biostack: "Public Health and Genomic Epidemiology,",
+    twitterHandle: "@readone98,"
 }
 
 function hammer(){

@@ -5,7 +5,7 @@
 Following the footsteps of renowned scientist and drug developer, **Alexander Fleming**, #TeamFleming is taking their first steps to learning digital skills required to make impact at the intersection of biology & tech.
 
 # :couple: Team Members
-1. Sara Elbesomy  : **MATLAB**
+1. Sara Elbesomy  : **Julia**
 2. Naomi Ndifon   : **Ruby**
 3. Adole Jolly    : **R**
 4. Stephanie Ezirim : **Python**
@@ -33,6 +33,31 @@ Here's a pictorial representation of what we had to do
 
 ![Copy of 5 Fun Facts Chalk Board Meet the Teacher Introduction Graphic (1)](https://user-images.githubusercontent.com/88307038/128563508-0ba1b4fe-82c9-4f0a-827b-a07ba0443c59.png)
 
+# How to get the .CSV file of our meta data?
+First, the following dependencies should be installed. We tried our code on Windows 10 using Git Bash to run the bash script.
 
+**Julia :** you can download it from https://julialang.org/downloads/ and use this tutorial to install it https://datatofish.com/install-julia/ .
+
+**g++ compiler :** you can download MinGW that contains both gcc and g++ for windows from https://sourceforge.net/projects/mingw/ and you can use this tutorial to install it https://techsupportwhale.com/install-gcc-compiler-on-windows/ .
+
+**Ruby :** you can download it from https://rubyinstaller.org/downloads/ .
+
+**R :** you can download it from https://cran.r-project.org/ .
+
+**Python :** you can download it from here https://www.python.org/downloads/ .
+
+**JavaScript :** you can download it from here https://nodejs.org/en/download/ .
+
+**Perl :** you can doenload it from here https://www.perl.org/get.html .
+
+Second, you will need to download the bash script named **"CSV_generator.sh"** and run it on any bash environment (we used Git Bash) as:
+
+    $ ./CSV_generator.sh
+                      
+And you may be needed to type this command first to allow the system to execute the scripts in your current directory:
+
+    $ chmod +x CSV_generator.sh
+    
+After running the file you will find a .CSV file in your current directory named "Fleming.csv".
 
 
