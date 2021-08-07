@@ -40,4 +40,14 @@ First, the following dependencies should be installed. We tried our code on Wind
 
 **g++ compiler :** you can download MinGW that contains both gcc and g++ for windows from https://sourceforge.net/projects/mingw/ and you can use this tutorial to install it https://techsupportwhale.com/install-gcc-compiler-on-windows/ .
 
+**Ruby :** you can download it from https://rubyinstaller.org/downloads/ .
+
+**R :** you can download it from https://cran.r-project.org/ .
+
+**Python :** you can download it from here https://www.python.org/downloads/ .
+
+**JavaScript :** you can download it from here https://nodejs.org/en/download/ .
+
+**Perl :** you can doenload it from here https://www.perl.org/get.html .
+
 
