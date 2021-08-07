@@ -1,4 +1,4 @@
-public class HelloWorld{
+public class Task1_Kibathi{
 // Java program to find hamming distance
 // b/w two string
 
