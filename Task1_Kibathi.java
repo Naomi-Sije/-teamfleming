@@ -1,6 +1,6 @@
 public class HelloWorld{
      public static void main(String []args){
-        System.out.println("Mercy Kibathi, merciek66@gmail.com, @mercykibathih, Genomics, @mercykibathi1, hamming distance = 1");
+        System.out.println("Mercy Kibathi,merciek66@gmail.com,@mercykibathih,Genomics,@mercykibathi1,1");
      }
 }
 
