@@ -51,5 +51,11 @@ First, the following dependencies should be installed. We tried our code on Wind
 **Perl :** you can doenload it from here https://www.perl.org/get.html .
 
 Second, you will need to download the bash script named **"CSV_generator.sh"** and run it on any bash environment (we used Git Bash) as:
-       $ ./job.sh
+
+                      $ ./CSV_generator.sh
+                      
+And you may be needed to type this command first to allow the system to execute the scripts in your current directory:
+
+                      $ chmod +x CSV_generator.sh
+
 
