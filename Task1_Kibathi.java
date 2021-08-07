@@ -1,13 +1,8 @@
 public class HelloWorld{
-     public static void main(String []args){
-        System.out.println("Mercy Kibathi,merciek66@gmail.com,@mercykibathih,Genomics,@mercykibathi1,1");
-     }
-}
-
 // Java program to find hamming distance
 // b/w two string
-class GFG
-{
+
+
 // function to calculate Hamming distance
 static int hammingDist(String str1, String str2)
 {
@@ -24,12 +19,18 @@ static int hammingDist(String str1, String str2)
 // Driver code
 public static void main (String[] args)
 {
+    String name = "Mercy Kibathi";
+    String email = "merciek66@gmail.com";
+    String slack= "@mercykibathih";
+    String twitter= "@mercykibathi1";
+    String biostack = "Genomics";
 	String str1 = "@mercykibathih";
 	String str2 = "@mercykibathi1";
 
 	// function call
-	System.out.println(hammingDist (str1, str2));
-}
-}
+	
 
+	System.out.println(name + ", " + email + ", " + slack +", " + biostack + ", " + twitter + ", " + hammingDist (str1, str2));
+}
+}
 
