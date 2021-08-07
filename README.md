@@ -38,4 +38,6 @@ First, the following dependencies should be installed. We tried our code on Wind
 
 **Julia :** you can download it from https://julialang.org/downloads/ and use this tutorial to install it https://datatofish.com/install-julia/ .
 
+**g++ compiler :** you can download MinGW that contains both gcc and g++ for windows from https://sourceforge.net/projects/mingw/ and you can use this tutorial to install it https://techsupportwhale.com/install-gcc-compiler-on-windows/ .
+
 
