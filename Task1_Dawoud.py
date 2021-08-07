@@ -2,7 +2,7 @@ name = "Usman Dawoud,"
 email = "dawoudusman6@gmail.com,"
 slack_username = "@Dawoud,"
 biostack = "Transcriptomics,"
-twitter_handle = "@usman_dawoud,"
+twitter_handle = "@dawoud,"
 
 def hamming_distance(slack_username, twitter_handle):
     if len(slack_username) != len(twitter_handle):
