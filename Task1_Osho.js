@@ -11,9 +11,7 @@ function hammer(){
     let twitter = details.twitterHandle;
     let hamming = 0;
 
-    if ( slack !== twitter){
-        return 0;
-    }for (let i =0; i <= slack.length; i++){
+    for (let i =0; i <= slack.length; i++){
         if( twitter[i] !== slack[i]){
             hamming++ 
         };
