@@ -9,3 +9,4 @@ biostack = ('GenomicData,')
 twiter = ('@doley,')
 hamm_dist = (sum(us != tw))
 cat(name,email,username,biostack,twiter,hamm_dist)
+
