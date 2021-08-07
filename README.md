@@ -5,7 +5,7 @@
 Following the footsteps of renowned scientist and drug developer, **Alexander Fleming**, #TeamFleming is taking their first steps to learning digital skills required to make impact at the intersection of biology & tech.
 
 # :couple: Team Members
-1. Sara Elbesomy  : **MATLAB**
+1. Sara Elbesomy  : **Julia**
 2. Naomi Ndifon   : **Ruby**
 3. Adole Jolly    : **R**
 4. Stephanie Ezirim : **Python**
