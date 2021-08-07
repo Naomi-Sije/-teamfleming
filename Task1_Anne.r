@@ -3,4 +3,4 @@ email <- "sopuluchianne@gmail.com,"
 username <- "@Anne,"
 biostack <- "Data analysis,"
 twitter <- "sopuluchi anne," 
-print(c(name, email, username, biostack, twitter, sum(username!=twitter)))
+cat(name, email, username, biostack, twitter, sum(username!=twitter))
