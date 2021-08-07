@@ -35,6 +35,7 @@ Here's a pictorial representation of what we had to do
 
 # How to get the .CSV file of our meta data?
 First, the following dependencies should be installed. We tried our code on Windows 10 using Git Bash to run the bash script.
+
 **Julia :** you can download it from https://julialang.org/downloads/ and use this tutorial to install it https://datatofish.com/install-julia/ .
 
 
