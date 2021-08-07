@@ -52,10 +52,12 @@ First, the following dependencies should be installed. We tried our code on Wind
 
 Second, you will need to download the bash script named **"CSV_generator.sh"** and run it on any bash environment (we used Git Bash) as:
 
-                      $ ./CSV_generator.sh
+    $ ./CSV_generator.sh
                       
 And you may be needed to type this command first to allow the system to execute the scripts in your current directory:
 
-                      $ chmod +x CSV_generator.sh
+    $ chmod +x CSV_generator.sh
+    
+After running the file you will find a .CSV file in your current directory named "Fleming.csv".
 
 
