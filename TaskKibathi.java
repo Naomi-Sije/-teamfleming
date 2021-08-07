@@ -1,10 +1,5 @@
-package testt;
-
-public class TaskKibathi {
-    
-
+public class Main {
     public static void main (String[] args){
-
     String name = "Mercy Kibathi";
     String email = "merciek66@gmail.com";
     String slack= "@mercykibathih";
@@ -12,11 +7,8 @@ public class TaskKibathi {
     String biostack = "Genomics";
 	String str1 = "@mercykibathih";
 	String str2 = "@mercykibathi1";
-
 	System.out.println(name + ", " + email + ", " + slack +", " + biostack + ", " + twitter + ", " + hammingDist (str1, str2));
     }
-
-
     // function to calculate Hamming distance
     private static int hammingDist(String str1, String str2)
     {
@@ -29,6 +21,4 @@ public class TaskKibathi {
 	}
 	return count;
     }
-
 }
-
