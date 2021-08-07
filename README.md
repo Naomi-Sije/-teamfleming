@@ -33,6 +33,8 @@ Here's a pictorial representation of what we had to do
 
 ![Copy of 5 Fun Facts Chalk Board Meet the Teacher Introduction Graphic (1)](https://user-images.githubusercontent.com/88307038/128563508-0ba1b4fe-82c9-4f0a-827b-a07ba0443c59.png)
 
-
+# How to get the .CSV file of our meta data?
+First, the following dependencies should be installed. We tried our code on Windows 10 using Git Bash to run the bash script.
+**Julia :** you can download it from https://julialang.org/downloads/ and use this tutorial to install it https://datatofish.com/install-julia/ .
 
 
